@@ -37,6 +37,7 @@
 - [New Nintendo 3DS](https://github.com/zoeyjodon/moonlight-N3DS) - Moonlight client for New Nintendo 3DS.
 - [LG webOS TV](https://github.com/mariotaku/moonlight-tv) - Moonlight client for LG webOS TV.
 - [Samsung Tizen TV](https://github.com/brightcraft/moonlight-tizen) - Moonlight client for Samsung Tizen TV.
+- [TCL Google TV](https://github.com/pabragin/moonlight-tcl) - Moonlight client for TCL Google TVs on Android 14.
 
 ## 🔧 Tools
 - [Cloudy Pad](https://github.com/PierreBeucher/cloudypad) - Deploy Sunshine in the Cloud: Paperspace, AWS, Azure, Google Cloud, and more.
